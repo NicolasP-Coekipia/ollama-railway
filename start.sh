@@ -19,3 +19,4 @@ done
 ollama pull "${MODEL}"
 
 wait "${SERVE_PID}"
+
